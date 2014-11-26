@@ -48,3 +48,6 @@ mainframe.bmstu.ru
 + OMVS - для попадания в среду UNIX.  
 
 
+**Мой пароль для лабораторной работы на Mainframe : GS00AE**
+
+
